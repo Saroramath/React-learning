@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://saroramath.github.io/React-learning/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,3 +38,4 @@
     ]
   }
 }
+
