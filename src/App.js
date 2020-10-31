@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       
       <Nav/>
-    <Counter/>
+    
          
           <BrowserRouter>
             <Route exact path = "/" component = {Counter} />
