@@ -11,7 +11,7 @@ function App() {
       <Nav/>
     
          
-          <BrowserRouter basename="https://saroramath.github.io/React-learning/">
+          <BrowserRouter basename="/React-learning/">
             <Route exact path = "/" component = {Counter} />
             <Route path = "/ask" component = {Ask}/>
 
